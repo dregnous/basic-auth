@@ -22,11 +22,12 @@
 - **isemail :** check whether the email enter is already registered
 
  > **API DOMAIN or ADDRESS :  https://harsh-auth-docker.herokuapp.com**
+ 
+ 
 
-/login to login the users.
+## /login to login the users.
 
-/resend to resend the link
+## /resend to resend the link
 
-/logout to logout the users.
+## /logout to logout the users.
 
-/cook is the authenticated api
