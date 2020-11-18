@@ -8,7 +8,6 @@
 - **GET**
 
 > **Fields For Request are**
-- **role :** it decides whether the given user is ADMIN or a USER
 - **name :** Name of the user for registration
 - **email :** It contains the email of the user
 - **password :** password should be strong and should contains the ALPHANUMERIC characters
@@ -22,6 +21,8 @@
 - **isemail :** check whether the email enter is already registered
 
  > **API DOMAIN or ADDRESS :  https://harsh-auth-docker.herokuapp.com**
+ 
+ > **Email should not be same for registration**
  
  
 
